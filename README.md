@@ -6,4 +6,4 @@ This repository serves as a personal tracker for my journey in learning programm
 
 ## Structure
 
-You can find the files in Beecrowd's folder where they are organized by language. 
+You can find the files in Beecrowd's folder where they are organized by language.
