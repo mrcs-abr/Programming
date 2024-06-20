@@ -1,6 +1,6 @@
 # Programming
 
-This repository serves as a personal tracker for my journey in learning programming languages.At the moment it contains solutions at an online judge where you can access bellow:
+This repository serves as a personal tracker for my journey in learning programming languages. At the moment it contains solutions at an online judge where you can access bellow:
 
 - [Beecrowd](https://judge.beecrowd.com)
 
