@@ -2,7 +2,10 @@
 
 int main(){
    
-   int x, y, distance;
+   int distance;
+   
+   scanf("%d", &distance);
+   printf("%d minutos\n", distance * 2);
 
    return 0;	
 }
