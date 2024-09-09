@@ -9,9 +9,9 @@ int main() {
     scanf("%d", &n);
 
     if (n > 8000)
-      printf("Mais de 8000\n");
+      printf("Mais de 8000!\n");
     else
-      printf("Inseto\n");
+      printf("Inseto!\n");
   }
 
   return 0;

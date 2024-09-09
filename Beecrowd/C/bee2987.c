@@ -7,7 +7,7 @@ int main() {
 
   scanf("%c", &letter);
 
-  for (int i = 0; i < 23; i++) {
+  for (int i = 0; i < 26; i++) {
     if (letter == alphabet[i])
       index = i + 1;
   }
