@@ -1,0 +1,18 @@
+#include <stdio.h>
+
+int main() {
+  int n, h, d, g;
+
+  scanf("%d", &n);
+
+  for (int i = 0; i < n; i++) {
+    scanf("%d %d %d", &h, &d, &g);
+
+    if ((200 <= h && h <= 300) && (d >= 50) && (g >= 150))
+      printf("Sim\n");
+    else
+      printf("Nao\n");
+  }
+
+  return 0;
+}
